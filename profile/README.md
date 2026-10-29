@@ -8,6 +8,14 @@ each other or to the wallet that paid.
 It runs open models such as DeepSeek, Kimi, Qwen and GLM, including uncensored ones, and the questions are
 paid for on Solana in USDC or in $PARANOID.
 
+## $PARANOID
+
+CA: `22rWiyDiY9GgxSrFiWC2vX1GxNxjkvrRPmZJDzv9pq6X` ([Solscan](https://solscan.io/token/22rWiyDiY9GgxSrFiWC2vX1GxNxjkvrRPmZJDzv9pq6X))
+
+The supply can only go down, because the mint has no authority left to create more. Every USDC purchase of
+questions buys $PARANOID back, half for stakers and half to burn, and questions paid in $PARANOID burn the
+tokens outright.
+
 ## Use it
 
 - **In the browser** at [paranoid.red/app](https://paranoid.red/app): buy questions, then chat.
