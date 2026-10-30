@@ -30,6 +30,7 @@ tokens outright.
 | --- | --- |
 | [paranoid](https://github.com/paranoiddotred/paranoid) | The Solana program, the request circuit and their tests. The source builds to the exact bytes deployed on mainnet. |
 | [paranoid-mcp](https://github.com/paranoiddotred/paranoid-mcp) | The connector for Claude Code, Cursor and other MCP clients. |
+| [paranoid-relay](https://github.com/paranoiddotred/paranoid-relay) | PARANOID's own Oblivious HTTP relay, which forwards sealed questions without the caller's address and keeps nothing. |
 
 ## Credit
 
